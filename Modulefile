@@ -1,0 +1,6 @@
+name    'jumio-sssd'
+version '0.0.1'
+author  'Markus Burger'
+license 'Apache2'
+summary 'Puppet module for sssd'
+description 'This module installs and manages sssd. Check README for details.'
